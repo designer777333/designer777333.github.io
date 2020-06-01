@@ -1,0 +1,108 @@
+@font-face 
+{
+	font-family: Ropa;
+	src: url(../fonts/RopaSansPro-Regular.otf);
+}
+
+
+body
+	{
+		margin: 0;
+		padding: 0;
+	}
+
+.header 
+{
+	background-image: url(https://i.imgur.com/TvVgSAX.png);
+	height: 1080px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.logo img
+{
+    width: 60%;
+    height: 60%;
+    margin-top: 20%;
+	position: center;
+}
+.more
+{
+	font-family: Ropa;
+	margin-top: 7%;
+	font-size: 50px;
+	color: #FFFFFF;
+}
+.arrow
+{
+	margin-top: 3%;
+}
+.aboutus 
+{
+	width: 100%;
+	height: 1176px;
+	background-color: #1C2937;
+}
+
+.abonements 
+{
+	text-align: center;
+	width: 100%;
+	height: 1176px;
+	background-color: rgb(255, 255, 255);
+}
+.zagwhite
+{
+	font-family: Ropa;
+	font-size: 75px;
+	color: #FFFFFF;
+	padding-top: 3%;
+	font-weight: bold;
+}
+
+
+.pic1
+{
+	margin: 15px, 15px, 15px, 15px;
+	padding: 10px;
+	padding-top: 3%;
+	color: #FFFFFF;
+	font-family: Ropa;
+	font-size: 35px;
+	margin-left: 5%;
+	margin-right: 5%;
+	display: inline-block;
+	clear: both;
+}
+
+.pic2
+{
+	margin: 15px, 15px, 15px, 15px;
+	padding: 10px;
+	padding-top: 3%;
+	color: #FFFFFF;
+	font-family: Ropa;
+	font-size: 35px;
+	margin-left: 5%;
+	margin-right: 5%;
+	display: inline-block;
+	clear: both;
+}
+
+.zagblack
+{
+	font-family: Ropa;
+	font-size: 65px;
+	color: #000000;
+	padding-top: 3%;
+	font-weight: bold;
+}
+
+.pic3
+{
+	display: inline;
+}
+
+
