@@ -13,7 +13,7 @@ body
 
 .header 
 {
-	background-image: url("../images/header-image.png");
+	background-image: url("../../images/header-image.png");
 	height: 1080px;
 	background-attachment: fixed;
 	background-position: center;
